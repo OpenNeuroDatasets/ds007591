@@ -1,0 +1,5 @@
+{
+    "EEGCoordinateSystem": "Other",
+    "EEGCoordinateSystemDescription": "Common nominal electrode layout from electrodes_uhd.xml, reused from sub-1 through sub-3. Not an individual digitization for this participant.",
+    "EEGCoordinateUnits": "mm"
+}
