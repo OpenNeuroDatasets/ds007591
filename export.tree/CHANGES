@@ -1,0 +1,11 @@
+Unreleased
+  - Added age and sex for sub-1 through sub-9 from the participant demographics table.
+  - Corrected sub-3 ses-20230523 overt labels to subject3-1 (calibrated_2 / online_3).
+  - Removed sub-3 ses-20230523 subject3-2; minimally overt uses ses-20230524 subject3-4.
+1.0.2 2026-09-29
+  - Added data from six additional participants (sub-4 to sub-9)
+1.0.1 2026-03-31
+  - Corrected bad channel status in channels.tsv (detected via PyPREP)
+  - Fixed TRIGGER channel units to n/a in channels.tsv
+1.0.0 2026-03-28
+  - Initial release
